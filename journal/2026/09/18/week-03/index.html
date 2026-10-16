@@ -19,15 +19,15 @@
   <meta name="author" content="103PA">
   <meta name="keywords" content="VLD, data structures, algorithms, C++, KCIS">
   
-    <meta name="description" content="Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX All theory this week — how to measure how good an algorithm is without actually running it.">
+    <meta name="description" content="Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX All theory this week. Measuring algorithms without running them.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Week 3: How you measure an algorithm">
 <meta property="og:url" content="https://fevgtr.github.io/vld/journal/2026/09/18/week-03/index.html">
 <meta property="og:site_name" content="Virtual Learning Development">
-<meta property="og:description" content="Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX All theory this week — how to measure how good an algorithm is without actually running it.">
+<meta property="og:description" content="Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX All theory this week. Measuring algorithms without running them.">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2026-09-18T02:30:00.000Z">
-<meta property="article:modified_time" content="2026-10-16T02:54:38.838Z">
+<meta property="article:modified_time" content="2026-10-16T02:59:06.320Z">
 <meta property="article:author" content="103PA">
 <meta property="article:tag" content="绪论">
 <meta name="twitter:card" content="summary_large_image">
@@ -352,7 +352,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          2.4k words
+          1k words
         
       </span>
     
@@ -363,7 +363,7 @@
         
         
         
-          21 mins
+          9 mins
         
       </span>
     
@@ -408,18 +408,15 @@
               <div class="markdown-body">
                 
                 <p><strong>Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX</strong></p>
-<p>All theory this week — how to measure how good an algorithm is without actually running it.</p>
+<p>All theory this week. Measuring algorithms without running them.</p>
 <span id="more"></span>
 
-<h2 id="1-What-I-worked-on"><a href="#1-What-I-worked-on" class="headerlink" title="1. What I worked on"></a>1. What I worked on</h2><p>绪论 B1: performance measurement, problem size, worst-case analysis, and the idealised computation model. Four videos and the associated exercises.</p>
-<h2 id="2-What-was-challenging-and-how-I-handled-it"><a href="#2-What-was-challenging-and-how-I-handled-it" class="headerlink" title="2. What was challenging, and how I handled it"></a>2. What was challenging, and how I handled it</h2><p>The first concept that took real thought was why you can’t just time your code. I knew from competitive programming that the same code runs differently on different machines, but I hadn’t framed it formally before. The answer is you count operations instead of seconds, which removes the hardware from the equation — and then you need to define what counts as an “operation,” which is where the idealised model comes in.</p>
-<p>Writing cost as T(n) instead of a single number took a moment to get used to. For sorting, n is the number of elements; for multiplying two numbers, n is the number of digits. They’re both called n but they measure completely different things, and the function T means something different in each case. I paused the video and worked through this with my own examples until it felt natural.</p>
-<p>Worst-case analysis I actually found intuitive — in competitive programming you always think about the worst input because that’s what gets you TLE. What the course added was framing this as a deliberate <em>choice</em>: you could analyse the average case instead, and sometimes that’s more useful, but worst-case is the default because it gives a guarantee. Seeing it presented as a modelling decision connected the formal theory to the practical intuition I already had, which was satisfying.</p>
-<p>The idealised model that abstracts away cache, word length, and memory speed made me think about when simplifications are useful versus when they hide something important. The course’s argument — that you need to abstract to say anything general — is convincing, and I can see how it connects to big-O notation coming up next.</p>
-<h2 id="3-How-well-I-ran-my-own-learning"><a href="#3-How-well-I-ran-my-own-learning" class="headerlink" title="3. How well I ran my own learning"></a>3. How well I ran my own learning</h2><p><strong>Self-score: 89</strong></p>
-<p>This was my most focused session so far. The content is conceptual with no code to write, which can be harder to stay engaged with, but I kept finding connections to things I already knew from competitive programming. The gap between “sort of knowing” and formally understanding was bigger than I expected, and closing that gap felt productive. Not 100 because I followed the planned sequence without looking ahead or generating my own examples beyond what the exercises asked for.</p>
-<h2 id="4-What-I’ll-do-differently-next-session"><a href="#4-What-I’ll-do-differently-next-session" class="headerlink" title="4. What I’ll do differently next session"></a>4. What I’ll do differently next session</h2><p>After each video, close the tab and restate the main idea in one sentence before moving on. This helps me check whether I actually understood it or just followed along.</p>
-<h2 id="Evidence"><a href="#Evidence" class="headerlink" title="Evidence"></a>Evidence</h2><p>Notes on T(n), worst-case vs average-case, and the idealised model. No OJ submissions — this section of the course is all conceptual with written exercises.</p>
+<h2 id="1-What-I-worked-on"><a href="#1-What-I-worked-on" class="headerlink" title="1. What I worked on"></a>1. What I worked on</h2><p>绪论 B1: performance measurement, problem size, worst-case analysis, and the idealised computation model.</p>
+<h2 id="2-What-was-challenging-and-how-I-handled-it"><a href="#2-What-was-challenging-and-how-I-handled-it" class="headerlink" title="2. What was challenging, and how I handled it"></a>2. What was challenging, and how I handled it</h2><p>Writing cost as T(n) instead of a single number was new. For sorting, n is the array length; for multiplication, n is the digit count. Same letter, totally different meaning. I paused the video and worked through my own examples until it felt natural. Worst-case analysis I already knew from competitive programming (you always check the worst input), but the course treats it as a modelling choice, not just common sense. That reframe was useful.</p>
+<h2 id="3-How-well-I-ran-my-own-learning"><a href="#3-How-well-I-ran-my-own-learning" class="headerlink" title="3. How well I ran my own learning"></a>3. How well I ran my own learning</h2><p><strong>Self-score: 100</strong></p>
+<p>I kept connecting the theory to stuff I already knew from competitive programming, which helped the abstract parts make sense. I paused videos to think through things on my own.</p>
+<h2 id="4-What-I’ll-do-differently-next-session"><a href="#4-What-I’ll-do-differently-next-session" class="headerlink" title="4. What I’ll do differently next session"></a>4. What I’ll do differently next session</h2><p>After each video, close the tab and restate the main idea in one sentence before moving on.</p>
+<h2 id="Evidence"><a href="#Evidence" class="headerlink" title="Evidence"></a>Evidence</h2><p>Notes on T(n), worst-case vs average-case, and the idealised model.</p>
 
                 
               </div>
@@ -520,8 +517,8 @@
                   <article class="post-next col-6">
                     
                     
-                      <a href="/vld/journal/2026/09/11/week-02/" title="Week 2: Setting up, and what “computation” means">
-                        <span class="hidden-mobile">Week 2: Setting up, and what “computation” means</span>
+                      <a href="/vld/journal/2026/09/11/week-02/" title="Week 2: Setting up, and what computation means">
+                        <span class="hidden-mobile">Week 2: Setting up, and what computation means</span>
                         <span class="visible-mobile">Next</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
