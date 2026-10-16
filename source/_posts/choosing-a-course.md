@@ -5,66 +5,64 @@ tags: [planning, course selection]
 categories: [journal]
 ---
 
-I spent this session actually deciding what my VLD is going to be, instead of circling it. The direction was never really in question — data structures and algorithms, written in C++ — but *which* course turned out to be a real decision.
+**Week 1 · 4 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+
+This session was deciding what my VLD actually is. The direction was never in question — data structures and algorithms, in C++ — but *which* course turned out to be a real decision.
 
 <!-- more -->
 
-## What I was choosing between
+## 1. What I worked on
 
-I had four serious options:
+Comparing four candidate courses and committing to one: Tsinghua University's
+*Data Structures* (数据结构), taught by Prof. Deng Junhui, free on XuetangX. I also
+read through what the course assumes you already know, and found the online judge
+where the programming assignments get submitted.
 
-- **Stanford CS106B.** All the lectures, assignments and handouts are public, and
-  it's taught in C++. Problem: nothing I submit gets marked. I'd be writing code
-  into a void and guessing whether it was right.
-- **UC San Diego's Data Structures specialisation** on Coursera. Properly graded,
-  but it costs money unless I apply for financial aid, which is two essays and a
-  couple of weeks of waiting. It also mixes Python, Java and C++.
-- **UIUC's Accelerated CS Fundamentals**, also Coursera, also C++, free to audit.
-  Closest to a drop-in answer. But it's about 60 hours total across three courses,
-  and it assumes you already know a language and want the C++ version of what you
-  know. Shallow for a whole year.
-- **Tsinghua's 数据结构**, taught by Prof. Deng Junhui, free on XuetangX.
+## 2. What was challenging, and how I handled it
 
-## What I went with, and why
+The hard part was that every obvious option had a catch, and I couldn't tell
+which catch mattered until I worked out what I actually needed.
 
-Tsinghua. Three reasons, in order of how much they actually mattered:
+- **Stanford CS106B** — everything's public and it's in C++, but nothing I submit
+  gets marked. I'd be writing code into a void.
+- **UC San Diego's specialisation** on Coursera — properly graded, but it needs a
+  financial-aid application, and it mixes Python, Java and C++.
+- **UIUC Accelerated CS Fundamentals** — C++, free to audit, closest to a drop-in
+  answer. But about 60 hours total, which is thin for a whole year.
+- **Tsinghua's 数据结构** — free, entirely C++, and it has a real online judge.
 
-1. **The work gets graded.** There's a real online judge at
-   `dsa.cs.tsinghua.edu.cn/oj` that compiles and runs my submissions against
-   hidden test cases. 6 problem sets and 4 programming assignments. If my code is
-   wrong I find out, which is the whole difference between studying and just
-   reading.
-2. **It's entirely C++, and it's C++ I don't write.** The course is built around
-   templated container classes — the kind of code where you implement `Vector`
-   yourself and then have to argue about why insertion is O(n). I've written a lot
-   of C++ for contests, but contest C++ is loops and arrays. I've basically never
-   written a class template.
-3. **It's free, permanently.** No aid application, no audit-mode restrictions, no
-   deadline I can miss.
+So I wrote down the three things I actually needed — work that gets graded, C++
+throughout, and no cost — and only one option had all three. That's how I got
+unstuck: the comparison was impossible until I'd decided what I was comparing on.
 
-The catch is that it's hard. It's the course Tsinghua's CS department actually
-runs, not a MOOC adaptation of one, and the prerequisites list inheritance,
-virtual methods, templates, induction and expected value. I'm shaky on at least
-half of that.
+The other difficulty was one I nearly didn't notice. My first instinct was to
+skip a course entirely and just grind problems on USACO Guide and CSES. It's
+tempting because you get a green tick every twenty minutes and it feels like
+progress. I talked myself out of it: problem sets teach you to recognise patterns
+you've already seen, and I'd have spent a year getting faster at things I already
+half-know. Being honest, I think I was also avoiding the Tsinghua course because
+it's intimidating — the prerequisites list templates, virtual methods, induction
+and expected value, and I'm shaky on at least half of that.
 
-## The thing I almost got wrong
+## 3. How well I ran my own learning
 
-My first instinct was to skip the course entirely and just grind problems —
-USACO Guide, CSES, Codeforces EDU. It's tempting because you get a green tick
-every twenty minutes and it feels like progress.
+**Self-score: 89**
 
-I talked myself out of it. Problem sets teach you to recognise patterns you've
-already seen. They don't teach you *why* a balanced tree is balanced, and I'd
-have spent a year getting faster at things I already half-know. The whole reason
-VLD is a year long is so I can learn something that doesn't fit in a weekend.
+I made a real decision and I can defend it, which is more than I'd have managed
+if I'd just picked the first free course. But I spent a good chunk of the period
+reading course pages without writing anything down, and the comparison only got
+fast once I'd listed my criteria. That should have been the first five minutes,
+not the last ten. Not 100, because I needed to catch myself drifting rather than
+noticing it straight away.
 
-That said, I think I was also avoiding the course because it's intimidating. Worth
-being honest about that, because it'll probably come back when I hit the part of
-the course I don't understand.
+## 4. What I'll do differently next session
 
-## Next
+Send Mr. Wright the course link and my one-sentence reason before I do anything
+else, then enrol and register on the judge in the same session — registration
+needs to use the same email as the XuetangX account or the grades don't sync, and
+I'd rather get that right once than fix it later.
 
-- Get this approved by Mr. Wright before I enrol.
-- Enrol in Part 1 and register on the judge with the same email so grades sync.
-- Check my C++ prerequisites honestly — specifically templates, which I suspect
-  I'll need to go back and learn properly before Chapter 2.
+## Evidence
+
+The course comparison above, and the full set of links on my
+[Resources](/vld/resources/) page.

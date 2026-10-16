@@ -385,6 +385,7 @@ navbar:
     - { key: "archive", name: "All Entries", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "tag", name: "Tags", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "resources", name: "Resources", link: "/resources/", icon: "iconfont icon-link-fill" }
+    - { key: "bio", name: "Learner Bio", link: "/bio/", icon: "iconfont icon-user-fill" }
     - { key: "about", name: "About", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
