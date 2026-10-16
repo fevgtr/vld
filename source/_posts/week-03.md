@@ -1,7 +1,7 @@
 ---
 title: "Week 3: How you measure an algorithm"
 date: 2026-09-18 10:30
-tags: [绪论]
+tags: [ch1]
 categories: [journal]
 ---
 

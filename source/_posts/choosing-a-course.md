@@ -1,7 +1,7 @@
 ---
 title: "Week 1: Picking the course took longer than I thought it would"
 date: 2026-09-04 10:30
-tags: [planning, course selection]
+tags: [planning]
 categories: [journal]
 ---
 

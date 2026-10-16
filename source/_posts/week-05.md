@@ -1,7 +1,7 @@
 ---
 title: "Week 5: Turing machines"
 date: 2026-10-02 10:30
-tags: [绪论]
+tags: [ch1]
 categories: [journal]
 ---
 

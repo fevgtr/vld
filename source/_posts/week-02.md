@@ -1,7 +1,7 @@
 ---
 title: "Week 2: Setting up, and what computation means"
 date: 2026-09-11 10:30
-tags: [绪论, setup]
+tags: [ch1]
 categories: [journal]
 ---
 
