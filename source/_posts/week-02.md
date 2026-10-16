@@ -1,33 +1,13 @@
 ---
-title: 'Week 2: Setting up, and what “computation” means'
-tags:
-  - 绪论
-  - setup
-categories:
-  - journal
-date: 2026-09-11 10:30:00
+title: "Week 2: Setting up, and what \u201ccomputation\u201d means"
+date: 2026-09-11 10:30
+tags: [绪论, setup]
+categories: [journal]
 ---
-
-<!-- What I actually did this session -->
-
-
-<!-- more -->
-
-## What I worked on
-
-
-## Where I got stuck
-
-
-## What I'd do differently next time
-
-
-## Next session
-
 
 **Week 2 · 11 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
 
-First real session with the course material. Half of it was setup, the other half was the opening lectures on computation.
+First real session with the course material — got everything set up and started the opening lectures.
 
 <!-- more -->
 
@@ -37,22 +17,22 @@ Enrolled on XuetangX, registered on the Tsinghua online judge with the same emai
 
 ## 2. What was challenging, and how I handled it
 
-Setting up the OJ took longer than it should have. I didn't realise the account email had to match the XuetangX one, so I registered with the wrong email first and had to redo it. Not hard, just annoying — and it's the kind of thing I should have read the instructions for before clicking.
+The lecture content was unexpected. I came in expecting code and got rope computers and straightedge constructions. At first I wasn't sure where it was going, but by the end of the video I got the point: these are examples of "basic operations" in different computational models, and the whole idea of analysing algorithms depends on agreeing what counts as one step. It clicked when he showed that a straightedge can do addition — I'd never thought of geometry that way before.
 
-The lecture content was unexpected. I came in expecting code and got rope computers and straightedge constructions. My first reaction was "why am I watching this," but by the end of the video I got the point: these are examples of "basic operations" in different computational models, and the whole idea of analysing algorithms depends on agreeing what counts as one step. It clicked when he showed that a straightedge can do addition, because I'd never thought of geometry that way.
+The four properties of an algorithm — correctness, determinism, feasibility, finiteness — took some effort to keep straight. Feasibility means each step is actually doable; finiteness means it terminates. The Hailstone sequence was the example that made this stick: it's a perfectly valid program, every step is simple, but nobody can prove it always terminates, so it's not an algorithm. It's interesting that such a simple program is still an open problem in mathematics.
 
-The four properties of an algorithm — correctness, determinism, feasibility, finiteness — I can list them now, but during the video I kept mixing up feasibility and finiteness. Feasibility means each step is actually doable; finiteness means it stops. The Hailstone sequence was the example that made this stick: it's a perfectly valid program, it runs, every step is simple, but nobody can prove it always terminates, so it's not an algorithm. I thought the distinction was a bit academic at first, but it's actually kind of interesting that such a simple program is an open problem.
+I also figured out the OJ registration — the account email has to match the XuetangX one for grades to sync. Caught that early by reading the instructions carefully.
 
 ## 3. How well I ran my own learning
 
 **Self-score: 89**
 
-I got through everything I planned and made a real attempt to understand the concepts rather than just watching. But I spent the first twenty minutes on setup that I could have done at home the night before. If I'd done that, I would have had time to try the first OJ problem. Managing my learning, not directing it yet.
+I got through everything I planned and made a real effort to understand the concepts rather than just watching passively. I paused videos to think through the examples and made sure I could explain each of the four algorithm properties before moving on. Not 100 because I stuck to the planned material without exploring anything beyond it.
 
 ## 4. What I'll do differently next session
 
-Do any setup or admin stuff outside class time. The period is only 45 minutes — that's two or three videos plus exercises if I don't waste any of it.
+Front-load any admin or setup tasks so the full period goes to course content. 45 minutes is enough for two or three videos plus exercises if I use it well.
 
 ## Evidence
 
-Registered on XuetangX and the OJ (no screenshots taken at the time). Notes from 绪论 A on the four algorithm properties and the Hailstone example.
+Registered on XuetangX and the OJ. Notes from 绪论 A on the four algorithm properties and the Hailstone example.

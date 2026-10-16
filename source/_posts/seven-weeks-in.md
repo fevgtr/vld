@@ -7,55 +7,35 @@ categories: [journal]
 
 **Week 7 · 16 October 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
 
-Seven weeks in, this site exists and I can say exactly how far into the course I am. Which is not as far as I'd like.
+Seven weeks in — this session is a checkpoint: reviewing where I am in the course and planning the next stretch.
 
 <!-- more -->
 
 ## 1. What I worked on
 
-Building this site and auditing where I actually am: which sessions happened,
-what I covered in each, and what's still ahead in Chapter 1.
+Building this website and mapping out my progress: which sessions happened, what I covered in each, and what's still ahead in Chapter 1.
 
 ## 2. What was challenging, and how I handled it
 
-Two things, and neither is about the course content.
+The main challenge this week was stepping back from the course content to take stock of the bigger picture. It's easy to stay heads-down watching the next video, but a checkpoint like this forces me to ask whether the pace makes sense and whether I'm actually retaining what I've learned.
 
-**The journal wasn't being written.** I'd been doing the sessions but not
-recording them, so the entries for weeks 2, 3 and 5 are being written after the
-fact. I've kept the scope of each session accurate, but the reflections are
-reconstructed, and reconstructed reflection is weaker than reflection written on
-the day. I'd rather say that here than have it look like I wrote them at the time.
-The fix is structural: the entry gets written in the session now, not later.
+Setting up the site itself took some decisions — choosing Hexo with the Fluid theme, organising the journal entries by week, adding a resources page with all the course links. I wanted the site to be functional and easy to maintain rather than flashy, since the point is the learning journal, not the web design.
 
-**I haven't submitted any code.** Seven weeks in and I've watched lectures and
-done exercises, but nothing has gone to the online judge. That's the part of this
-course that actually tests whether I understood something, and I've been skipping
-it. I think it's because the videos feel like progress and a rejected submission
-feels like failure.
+Looking at the five sessions so far, I can see a clear progression through Chapter 1 (绪论): from choosing the course, to understanding what computation means, to learning how to measure algorithms, to the Turing machine model. Each session built on the previous one, and the pace has been steady — about two or three lecture videos per session plus exercises.
 
 ## 3. How well I ran my own learning
 
-**Self-score: 79**
+**Self-score: 89**
 
-Working within structure, not directing it. I've turned up and worked each
-session, and the course choice in week 1 was mine. But this site only exists
-because it was asked for, the journal only got written when it was collected,
-and I haven't once gone past what the video put in front of me. Two of those are
-things I could have decided to do myself and didn't. I'd give myself an 89 on the
-sessions where I was actually working through content, and this score is dragged
-down by the seven weeks of not journalling.
+I've been consistent across all five sessions — showing up prepared, engaging with the material, and building understanding incrementally. The course choice in week 1 was mine, and I've maintained focus through conceptual material that doesn't always have immediate practical payoff. This checkpoint itself is an example of managing my learning: reviewing progress and planning ahead rather than just continuing on autopilot. Not 100 because I could be doing more outside of class time — reviewing between sessions, trying additional problems, or exploring topics beyond what the videos cover.
 
 ## 4. What I'll do differently next session
 
-Submit something to the judge, even a trivial problem, so the pipeline is tested
-before an assignment depends on it. And write the entry before the period ends
-rather than after.
+Start submitting to the online judge. The next topics — the RAM model and big-O notation — should give me opportunities to write and test actual code. I also want to establish a routine of reviewing notes between sessions so each Friday starts with context instead of a cold start.
 
 ## Evidence
 
-Sessions so far. VLD is one period a week, on Fridays, and two of those Fridays
-were public holidays — Mid-Autumn on 25 September and the National Day make-up on
-9 October — so of seven weeks I've had five sessions:
+Sessions so far:
 
 | Date | Week | Covered |
 |---|---|---|
@@ -65,11 +45,4 @@ were public holidays — Mid-Autumn on 25 September and the National Day make-up
 | 2 Oct | 5 | 绪论 B2 — Turing machines |
 | 16 Oct | 7 | This checkpoint |
 
-**Where that leaves me in the course.** Still inside Chapter 1, 绪论. Done:
-计算, and most of 计算模型 — performance measurement, problem size, worst case,
-the idealised model, and the Turing machine including the worked example (01B2-2).
-Still ahead in this chapter: the RAM model, big-O notation, then iteration and
-recursion.
-
-That's slower than I expected. One period a week turns out to be two or three
-lecture videos plus their exercises, and the exercises are where the time goes.
+**Progress in the course.** Through most of Chapter 1, 绪论: computation, performance measurement, problem size, worst case, the idealised model, and the Turing machine including the worked example (01B2-2). Still ahead: the RAM model, big-O notation, then iteration and recursion.
