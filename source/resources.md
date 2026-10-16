@@ -46,7 +46,7 @@ code and errata are all on the book's page:
 
 ## Options I looked at but didn't take
 
-- [Stanford CS106B](https://cs106b.stanford.edu/) — C++, excellent materials, but no way to get work graded.
-- [UIUC Accelerated CS Fundamentals](https://www.coursera.org/specializations/cs-fundamentals) (Coursera) — also C++, free to audit, but shallower.
-- UC San Diego's DSA specialisation — would have needed financial aid, and it's in Python/Java/C++ mixed.
-- [USACO Guide](https://usaco.guide/) / [CSES](https://cses.fi/problemset/) — problem sets rather than a course. Good practice, but not something I could follow week to week.
+- [Stanford CS106B](https://cs106b.stanford.edu/): C++, excellent materials, but no way to get work graded.
+- [UIUC Accelerated CS Fundamentals](https://www.coursera.org/specializations/cs-fundamentals) (Coursera): also C++, free to audit, but shallower.
+- UC San Diego's DSA specialisation: would have needed financial aid, and it mixes Python, Java and C++.
+- [USACO Guide](https://usaco.guide/) / [CSES](https://cses.fi/problemset/): problem sets, not a course. Good practice but not something I could follow week to week.
