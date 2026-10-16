@@ -11,7 +11,7 @@ language: en
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://YOUR-USERNAME.github.io/vld
+url: https://fevgtr.github.io/vld
 root: /vld/
 permalink: journal/:year/:month/:day/:title/
 permalink_defaults:
@@ -84,5 +84,5 @@ theme: fluid
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/YOUR-USERNAME/vld.git
+  repo: https://github.com/fevgtr/vld.git
   branch: gh-pages
