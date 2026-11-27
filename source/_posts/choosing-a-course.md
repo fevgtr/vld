@@ -31,4 +31,4 @@ Enrol on XuetangX and register on the OJ in one go. The OJ account needs the sam
 
 ## Evidence
 
-Course comparison and all links on my [Resources](/vld/resources/) page.
+Course comparison on my [Course Log](/vld/course-log.html) page.
