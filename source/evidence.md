@@ -19,4 +19,4 @@ date: 2026-11-27
 
 ## This website
 
-Built in Week 7 with Hexo and the Fluid theme, hosted on GitHub Pages. Source: [github.com/fevgtr/vld](https://github.com/fevgtr/vld).
+Built in Week 7 with Hexo and the Fluid theme, hosted on GitHub Pages.
