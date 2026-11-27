@@ -15,10 +15,10 @@ Data Structures (数据结构) by Professor Deng Junhui, Tsinghua University. Fr
 
 I finished AP Computer Science A and have some USACO experience, so I'm comfortable with C++ and basic algorithms. But AP CS A stops before real algorithm analysis, and in competitive programming I kept running into data structures I only half understood. I wanted to learn how trees, heaps, hash tables, and graphs work, and how to estimate time complexity on sight.
 
-{% cq %}
-"It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity."
+<blockquote style="text-align: center; border-left: none; font-style: italic; padding: 1em 2em;">
+"It is time to unmask the computing community as a Secret Society for the Creation and Preservation of Artificial Complexity."<br>
 — Edsger Dijkstra
-{% endcq %}
+</blockquote>
 
 ## Advice for a G10 student starting VLD
 
