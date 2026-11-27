@@ -13,8 +13,8 @@ date: 2026-11-27
 ## Lectures completed
 
 - 绪论 A: what computation is
-- 绪论 B1–B3: performance measurement, Turing machine, RAM model
-- 绪论 C1–C4: Big-O, efficient vs. intractable problems, growth rates
+- 绪论 B1 to B3: performance measurement, Turing machine, RAM model
+- 绪论 C1 to C4: Big-O, efficient vs. intractable problems, growth rates
 - 绪论 D1-1, D1-2, D2-1, D2-2: algorithm analysis, series, loops, bubble sort
 
 ## This website

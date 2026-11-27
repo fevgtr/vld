@@ -17,7 +17,7 @@ All theory this week. Measuring algorithms without running them.
 
 ## 2. What was challenging, and how I handled it
 
-Writing cost as T(n) instead of a single number was new. For sorting, n is the array length; for multiplication, n is the digit count. Same letter, totally different meaning. I paused the video and worked through my own examples until it felt natural. Worst-case analysis I already knew from competitive programming (you always check the worst input), but the course treats it as a modelling choice, not just common sense. That reframe was useful.
+Writing cost as T(n) instead of a single number was new. For sorting, n is the array length; for multiplication, n is the digit count, so the same letter means something different each time. I paused the video and worked through my own examples until it felt natural. Worst-case analysis I already knew from competitive programming (you always check the worst input). The course presents it as a modelling choice, which I hadn't thought about before.
 
 ## 3. How well I ran my own learning
 

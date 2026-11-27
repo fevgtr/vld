@@ -23,7 +23,7 @@ I expected code and got geometry. The rope and straightedge examples seemed rand
 
 **Self-score: 100**
 
-I stuck with the parts that seemed pointless instead of skipping ahead, and they turned out to matter. Also caught the OJ same-email requirement by reading the docs before registering.
+I stayed with the parts that seemed pointless, and the rope and straightedge examples ended up explaining what a basic operation is. I also caught the OJ same-email requirement by reading the docs before registering.
 
 ## 4. What I'll do differently next session
 

@@ -17,13 +17,13 @@ Compared four courses and picked Tsinghua's Data Structures (数据结构) by Pr
 
 ## 2. What was challenging, and how I handled it
 
-Every option had a trade-off. Stanford CS106B has no grading, UC San Diego mixes three languages, UIUC is too short for a full year. I kept going back and forth until I wrote down three criteria (graded work, C++ only, free), and only Tsinghua hit all three. Once I knew what I was comparing on, the decision was obvious.
+Every option had a trade-off. Stanford CS106B has no grading, UC San Diego mixes three languages, UIUC is too short for a full year. I kept going back and forth until I wrote down three criteria (graded work, C++ only, free), and only Tsinghua hit all three.
 
 ## 3. How well I ran my own learning
 
 **Self-score: 100**
 
-I picked my own criteria and chose the course myself. The comparison was my idea, not something I was told to do.
+I came up with the comparison criteria myself and made the choice on my own.
 
 ## 4. What I'll do differently next session
 

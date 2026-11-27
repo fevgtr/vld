@@ -17,7 +17,7 @@ Back after a two-week gap. Mid-Autumn Festival meant no class on the 25th.
 
 ## 2. What was challenging, and how I handled it
 
-Tracing the B2-2 example: I was reading the transition table top-to-bottom like code, but it's actually a lookup table. You find your (state, character) pair and read off what to do. Once I figured that out the rest of the trace went fine. I also spent the first few minutes reviewing week 3 notes so I didn't start cold after the break.
+Tracing the B2-2 example: I was reading the transition table top-to-bottom like code, but it's a lookup table. You find your (state, character) pair and read off what to do. Once I figured that out the rest of the trace went fine. I also spent the first few minutes reviewing week 3 notes so I didn't start cold after the break.
 
 The bigger question, why study Turing machines at all, clicked by the end. It defines what "computable" means, which matters when the course starts asking whether a problem is even solvable.
 
@@ -29,7 +29,7 @@ I traced the example on paper, caught my own mistake with the transition table, 
 
 ## 4. What I'll do differently next session
 
-Keep reviewing previous notes before each session. It made a clear difference today.
+Keep reviewing previous notes before each session, since it helped me get back in after the break.
 
 ## Evidence
 

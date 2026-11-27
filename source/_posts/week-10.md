@@ -17,7 +17,7 @@ From counting operations to classifying how fast they grow.
 
 ## 2. What was challenging, and how I handled it
 
-Big-O notation looked simple at first: drop the lower-order terms, drop the constant. But the formal definition uses a pair of constants (c and n₀) that took some thought. Saying f(n) = O(g(n)) means there exist c > 0 and n₀ such that f(n) ≤ c·g(n) for all n ≥ n₀. That "for all n beyond some threshold" part is what 主流长远 sets up: short-run behavior does not matter, only the long-run trend.
+Big-O notation looked simple at first: drop the lower-order terms, drop the constant. But the formal definition uses a pair of constants (c and n₀) that took some thought. Saying f(n) = O(g(n)) means there exist c > 0 and n₀ such that f(n) ≤ c·g(n) for all n ≥ n₀. That "for all n beyond some threshold" part is what 主流长远 sets up: only the long-run trend counts.
 
 I paused the C1-2 video at the examples and tried to pick c and n₀ myself before the lecture showed them.
 
