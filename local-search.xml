@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Week 13: Algorithm analysis and bubble sort</title>
+    <link href="/vld/journal/2026/11/27/week-13/"/>
+    <url>/vld/journal/2026/11/27/week-13/</url>
+    
+    <content type="html"><![CDATA[<p><strong>Week 13 · 27 November 2026 · Data Structures (数据结构), Tsinghua University · XuetangX</strong></p><p>From summing series to watching a sorting algorithm move elements into place.</p><span id="more"></span><h2 id="1-What-I-worked-on"><a href="#1-What-I-worked-on" class="headerlink" title="1. What I worked on"></a>1. What I worked on</h2><p>Continued section D on algorithm analysis. D1-2 级数 covers the summation formulas that keep showing up in complexity proofs (arithmetic series, geometric series, harmonic series). D2-1 循环 is about analyzing loops by counting iterations. D2-2 非极端元素+起泡排序 introduces bubble sort as a first concrete sorting algorithm.</p><h2 id="2-What-was-challenging-and-how-I-handled-it"><a href="#2-What-was-challenging-and-how-I-handled-it" class="headerlink" title="2. What was challenging, and how I handled it"></a>2. What was challenging, and how I handled it</h2><p>D1-2 covers arithmetic and geometric series, power sums, and harmonic series. Knowing the closed forms matters because loop analysis keeps producing sums like 1 + 2 + … + n, and recognizing that as n(n+1)&#x2F;2 is what turns a loop into an O(n²) claim. I wrote out each formula and matched it to the loop patterns in D2-1.</p><p>Bubble sort in D2-2 was straightforward to follow, but seeing why it is O(n²) in the worst case tied the series work together: each pass does one fewer comparison, so the total is (n-1) + (n-2) + … + 1, which is exactly the arithmetic sum from D1-2.</p><h2 id="3-How-well-I-ran-my-own-learning"><a href="#3-How-well-I-ran-my-own-learning" class="headerlink" title="3. How well I ran my own learning"></a>3. How well I ran my own learning</h2><p><strong>Self-score: 100</strong></p><p>I watched D1-2 before D2-1 so the summation formulas were fresh when the loop analysis needed them, and the bubble sort cost in D2-2 used the same arithmetic series from D1-2.</p><h2 id="4-What-I’ll-do-differently-next-session"><a href="#4-What-I’ll-do-differently-next-session" class="headerlink" title="4. What I’ll do differently next session"></a>4. What I’ll do differently next session</h2><p>Move further into section D and try to analyze a loop or algorithm on my own before the lecture gives the answer.</p><h2 id="Evidence"><a href="#Evidence" class="headerlink" title="Evidence"></a>Evidence</h2><p>XuetangX watch history for D1-2 级数, D2-1 循环, and D2-2 非极端元素+起泡排序.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>journal</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>ch1</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Week 11: Hard problems and growth rates</title>
     <link href="/vld/journal/2026/11/13/week-11/"/>
     <url>/vld/journal/2026/11/13/week-11/</url>
