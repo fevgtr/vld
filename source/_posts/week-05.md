@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 5 · 2 October 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 5 · 2 October 2026**
 
 Back after a two-week gap. Mid-Autumn Festival meant no class on the 25th.
 

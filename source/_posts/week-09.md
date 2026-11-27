@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 9 · 30 October 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 9 · 30 October 2026**
 
 Moving past Turing machines to a computation model closer to real hardware.
 

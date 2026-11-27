@@ -5,7 +5,7 @@ tags: [planning]
 categories: [journal]
 ---
 
-**Week 1 · 4 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 1 · 4 September 2026**
 
 First session. Spent it choosing which course to take for VLD.
 

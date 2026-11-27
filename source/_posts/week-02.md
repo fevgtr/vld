@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 2 · 11 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 2 · 11 September 2026**
 
 Got everything set up and started the first real lectures.
 

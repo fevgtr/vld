@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 3 · 18 September 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 3 · 18 September 2026**
 
 All theory this week. Measuring algorithms without running them.
 

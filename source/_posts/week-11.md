@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 11 · 13 November 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 11 · 13 November 2026**
 
 What separates problems you can solve fast from problems nobody knows how to.
 

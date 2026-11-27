@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 10 · 6 November 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 10 · 6 November 2026**
 
 From counting operations to classifying how fast they grow.
 

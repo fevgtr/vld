@@ -5,7 +5,7 @@ tags: [checkpoint]
 categories: [journal]
 ---
 
-**Week 7 · 16 October 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 7 · 16 October 2026**
 
 Checkpoint session. Built this website and reviewed my progress so far.
 

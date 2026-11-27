@@ -5,7 +5,7 @@ tags: [ch1]
 categories: [journal]
 ---
 
-**Week 13 · 27 November 2026 · Data Structures (数据结构), Tsinghua University · XuetangX**
+**Week 13 · 27 November 2026**
 
 From summing series to watching a sorting algorithm move elements into place.
 
